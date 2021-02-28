@@ -2,7 +2,7 @@
   "name": "diplomjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sugarboy228.github.io/react-demo/",
+  "homepage": "https://sugarboy228.github.io/demo-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
@@ -27,7 +27,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "react-scripts build",
-    "deploy": "gh-pages -d build -r https://sugarboy228.github.io/react-demo/"
+    "deploy": "gh-pages -d build -r https://sugarboy228.github.io/demo-react/"
   },
   "eslintConfig": {
     "extends": [
